@@ -1,0 +1,34 @@
+# File paths
+- data:
+    raw: raw/
+    int: intermediate/
+    cln: clean/
+    out: output/
+    scratch: output-scratch/
+
+- src: code/
+
+- viz:
+    font.family: serif 
+    #font.serif: computer modern roman
+    mathtext.fontset: cm 
+    text.usetex: True
+    text.latex.preamble: \usepackage{gensymb}
+    font.size: 11
+    figure.titlesize: 11
+    legend.title_fontsize: 10
+    legend.fontsize: 10
+    axes.titlesize : 11
+    axes.labelsize : 11
+    xtick.labelsize: 10 
+    ytick.labelsize: 10
+    lines.linewidth : 2
+    lines.markersize : 6
+    figure.autolayout: False 
+    # A4 size: 8.3 x 11.7, max fig. width: 6 
+    figure.figsize: 4, 3 
+    # DPI for showing > 100
+    figure.dpi: 120
+    # DPI for production 2 * 100
+    savefig.dpi: 200 
+    savefig.facecolor: none

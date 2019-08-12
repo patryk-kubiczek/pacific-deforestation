@@ -1,0 +1,15 @@
+# Exclude everything in these directories
+raw/*
+intermediate/*
+output-scratch/*
+# except keep the folders
+!raw/.gitkeep
+!intermediate/.gitkeep
+!output-scratch/.gitkeep
+
+# Others
+*~
+*.un*
+*.swp
+__pycache__
+.ipynb_checkpoints
