@@ -12,7 +12,7 @@ In this project I employ the methods of machine learning to build models predict
 
 ## Results
 
-See the notebook `analyse.ipynb` in [nbviewer](http://nbviewer.ipython.org/github/patryk-kubiczek/pacific-deforestation/blob/a98310a47a39c60e32ca9c8bd9b177ae139af3f5/notebooks/analyse.ipynb).
+See the notebook `analyse.ipynb` in [nbviewer](https://nbviewer.jupyter.org/github/patryk-kubiczek/pacific-deforestation/blob/master/notebooks/analyse.ipynb).
 
 ## Reproducibility
 
