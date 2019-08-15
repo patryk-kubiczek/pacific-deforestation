@@ -29,6 +29,6 @@ conda activate pacific-deforestation
 
 ## Acknowledgements
 
-We acknowledge the usage of public datasets supplementing papers [1] and [2], as well the usage of a map from [Natural Earth](https://www.naturalearthdata.com/).
+I acknowledge the usage of public datasets supplementing papers [1] and [2], as well as of a map from [Natural Earth](https://www.naturalearthdata.com/).
 
 **Copyright (C) 2019 Patryk Kubiczek**
